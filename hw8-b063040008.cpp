@@ -83,6 +83,7 @@ int main(int argc,char *argv[])
     else
         cout<<"Wrong command"<<endl;
 
+
     return 0;
 }
 void Huffman::encode(char infile_name[])
